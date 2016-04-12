@@ -1,2 +1,2 @@
-# Some fast words
+# Cabe +1 Official Blog
 This will be updated as soon as we decided how to create the blog. It will be Jekyll based, but the template... 
